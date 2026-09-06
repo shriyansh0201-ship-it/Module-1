@@ -1,0 +1,10 @@
+field1 = 240
+field2 = 360
+field3 = 480
+total = field1 + field2 + field3
+avg = total/3 
+price = 100
+total_earnings = price*total
+bags = 280
+total_no_of_bags = total //bags
+remaining_leftovers = total %280
