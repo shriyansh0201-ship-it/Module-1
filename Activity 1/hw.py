@@ -1,0 +1,6 @@
+print("My routine")
+print("6:30 AM = i get up and get ready for school")
+print("4:30 PM = I relax and play games for 1 hour")
+print("5:30 PM = i get to my tuition")
+print("7:30 PM = i play with my friends watch TV eat dinner and go to sleep")
+print("Hours in a week i spend on playing video games =",1*7)
